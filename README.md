@@ -1,6 +1,6 @@
  ✨Olá Mundo!✨ 
  
-- 🌱 I’m currently learning Html Css e JavaScript.
+- 🌱 I’m currently learning Html/Css/JavaScript/React.
 - 📫 How to reach me:sellis.joyce@gmail.com
 
 <div>
